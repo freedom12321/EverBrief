@@ -180,15 +180,6 @@ Open [http://localhost:3001](http://localhost:3001) to see the app.
 
 **Note:** EverBrief runs on port 3001 by default to avoid conflicts with other projects.
 
-## 🔐 Safe GitHub Sharing
-
-- Keep your real `OPENAI_API_KEY`, `EVERMEM_API_KEY`, and `EVERBRIEF_ACCESS_PASSWORD` only in `.env.local` on your machine or in your hosting provider's secret settings.
-- Commit [`.env.example`](.env.example) with placeholder values like `your_openai_key_here`.
-- Do not create any `NEXT_PUBLIC_*` variable for private keys. Anything with `NEXT_PUBLIC_` is visible in the browser.
-- Before pushing, run `git status --short --ignored` and confirm `.env.local` appears as ignored.
-- If you deploy the app with a real OpenAI key, set `EVERBRIEF_ACCESS_PASSWORD` too so the UI is locked before anyone can use your quota.
-
----
 
 ## 📖 Usage Guide
 
