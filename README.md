@@ -230,51 +230,8 @@ Notice how each response shows the **memories used** to generate the answer.
 
 ## 🎬 Demo Script (3 minutes)
 
-**Perfect for a competition video or live demo:**
 
-### [0:00-0:30] The Problem
-> "I'm working on a competition. Day 1, I have a great idea. Day 2, my mentor says it's too broad—I need to pivot. Day 3, I'm coding... but wait, what did I decide yesterday? What was the feedback again?"
-
-> "Sound familiar? We lose context every time we switch tasks. Normal notes don't help—they're passive."
-
-### [0:30-1:00] Introducing EverBrief
-> "EverBrief is different. It's a memory-native project copilot. It doesn't just store your notes—it remembers your project journey and helps you stay on track."
-
-> "Let me show you a real example: building this very project."
-
-### [1:00-1:45] The Demo
-> **Load demo data**
-> "Here's my 3-day journey. Day 1: initial idea. Day 2: mentor feedback—'too generic.' Day 3: pivoted to a project copilot."
-
-> **Open Chat tab**
-> "Now I can ask: 'What did the mentor criticize?' Look—it retrieves the exact feedback and shows me which memories it used. This is transparent, trustworthy memory."
-
-> **Ask another question**
-> "What did we decide after that feedback?' It knows we pivoted to a project copilot."
-
-> **Open Timeline tab**
-> "Here's the full story of my project—every decision, every piece of feedback, chronologically organized."
-
-### [1:45-2:15] Why Memory Matters
-> "This ONLY works with long-term memory. A chatbot would forget. A notes app wouldn't connect the dots. EverBrief remembers context across days and uses it to keep me aligned."
-
-> **Open Action Plan tab**
-> "It even generates next steps based on my deadline, feedback, and decisions. Everything is grounded in memory."
-
-### [2:15-2:45] The Technology
-> "Built with EverMemOS Cloud API. Uses memory categories: episodic for notes and decisions, foresight for tasks, profile for project criteria."
-
-> "Clean Next.js architecture with an adapter pattern—works with EverMemOS or falls back to a mock for demos."
-
-### [2:45-3:00] Closing
-> "EverBrief: Stop losing context. Start building better. Your memory-native project copilot."
-
-> **Show landing page**
-> "Built for EverMind Memory Genesis Competition 2026."
-
----
-
-## 🏆 Why This Project Demonstrates Memory
+## Why This Project Demonstrates Memory
 
 ### Memory is Essential, Not Optional
 
@@ -301,46 +258,5 @@ Notice how each response shows the **memories used** to generate the answer.
 
 ---
 
-## 📦 Deployment
-
-### Deploy to Vercel
-```bash
-npm run build
-# Then deploy via Vercel CLI or GitHub integration
-```
-
-### Environment Variables in Production
-Set the same `.env` variables in your Vercel/deployment dashboard.
-
----
-
-## 🤝 Contributing
-
-This is a competition submission, but feedback is welcome! If you find issues or have ideas:
-1. Open an issue
-2. Suggest improvements
-3. Share your thoughts
-
----
-
-## 📄 License
-
-MIT License - feel free to use this as inspiration for your own memory-native apps!
-
----
-
-## 🙏 Acknowledgments
-
-- **EverMind Team** for the Memory Genesis Competition
-- **EverMemOS** for the powerful memory API
-- **Next.js Team** for the amazing framework
-
----
-
-## 📧 Contact
-
-Questions? Reach out or open an issue!
-
----
 
 **EverBrief** - Because your project deserves to be remembered.
