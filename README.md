@@ -228,8 +228,9 @@ Notice how each response shows the **memories used** to generate the answer.
 
 ---
 
-## 🎬 Demo Script (3 minutes)
+## 🎬 Demo(3 minutes)
 
+https://youtu.be/Gcr9zApV84s 
 
 ## Why This Project Demonstrates Memory
 
